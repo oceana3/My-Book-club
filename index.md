@@ -1,9 +1,13 @@
 # Welcome 🌸
-Bienvenue dans mon bookclub! Fan de romance et de fantasy, je vous partage mes lectures du mois, mes avis et mes recommandations.
-
+Bienvenue dans mon bookclub! Fan de romance,fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
+<style>
+:root{
+  --fond:#f2f0f7; --encre:#1d1b2e; --doux:#5b5870; --carte:#ffffff;
+  --romance:#b83a68; --fantasy:#2c7a68; --thriller:#3b4a7a;
+}
 ## Septembre 🌤️
 
-En ce moment, je lis L'héritier ( les yakuzas, #2) 
+En ce moment, je lis « Dear Debbie » de Freida McFadden
 
 ![imag](images.jpeg)
 
@@ -18,10 +22,10 @@ Pour l'acheter : [Amazon](https://www.amazon.fr/gp/product/B0GDD56F94?ie=UTF8&ta
 
 
 [ link to my introduction](introduction)
-[link to my secondpage.md ](https://github.com/oceana3/Exercice-/blob/main/secondpage.md)
+[Mes lectures du mois d'août ](https://github.com/oceana3/Exercice-/blob/main/secondpage.md)
 
 
-[UBO ](https://www.univ-brest.fr/fr)
+
 
 
 
