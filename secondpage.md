@@ -5,6 +5,8 @@
 ![imag1](La-Revolte-de-la-Reine.jpg)
 
 
+Mon avis : ⭐️⭐️⭐️⭐️☆ 
+
 Résumé : 
 
 La Révolte de la Reine est le premier tome d'Inhéritance, la nouvelle trilogie de Morgane Moncomble. 
