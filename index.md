@@ -1,10 +1,8 @@
 # Welcome 🌸
 Bienvenue dans mon bookclub! Fan de romance,fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
 <style>
-:root{
-  --fond:#f2f0f7; --encre:#1d1b2e; --doux:#5b5870; --carte:#ffffff;
-  --romance:#b83a68; --fantasy:#2c7a68; --thriller:#3b4a7a;
-}
+:root{ --fond:#f2f0f7; --encre:#1d1b2e; --doux:#5b5870; --carte:#ffffff;
+  --romance:#b83a68; --fantasy:#2c7a68; --thriller:#3b4a7a;}
 ## Septembre 🌤️
 
 En ce moment, je lis « Dear Debbie » de Freida McFadden
