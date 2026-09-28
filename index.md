@@ -19,7 +19,8 @@ Pour l'acheter : [Fnac](https://www.fnac.com/a22858837/Freida-McFadden-Chere-Deb
 
 
 [ link to my introduction](introduction)
-[Mes lectures du mois d'août ](https://github.com/oceana3/Exercice-/blob/main/secondpage.md)
+
+[Mes lectures du mois d'août ](secondpage.md)
 
 
 
