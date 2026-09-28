@@ -1,13 +1,11 @@
 # Welcome 🌸
 Bienvenue dans mon bookclub! Fan de romance,fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
-<style>
-:root{ --fond:#f2f0f7; --encre:#1d1b2e; --doux:#5b5870; --carte:#ffffff;
-  --romance:#b83a68; --fantasy:#2c7a68; --thriller:#3b4a7a;}
+
 ## Septembre 🌤️
 
-En ce moment, je lis « Dear Debbie » de Freida McFadden
+En ce moment, je lis « Dear Debbie » de Freida McFadden.
 
-![imag](images.jpeg)
+![imag]()
 
  Ils ont tout perdu… sauf l’espoir de se retrouver.
 De retour en Russie, Nikita tombe sous la coupe d’un frère qui n’a plus aucune raison de la ménager. Isolée et trahie, elle doit apprendre à survivre dans un monde qui cherche à l’engloutir.
