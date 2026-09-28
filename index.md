@@ -1,3 +1,5 @@
+<div style="background-color: #fff0f5; font-family: 'Dancing Script', 'Comic Sans MS', cursive; font-size: 26px; padding: 20px; min-height: 100vh;">
+
 # Welcome 🌸
 Bienvenue dans mon bookclub! Fan de romance,fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
 
