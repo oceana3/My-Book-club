@@ -20,5 +20,8 @@ Depuis leur rencontre, leurs relations virent à l'affrontement. Pourtant, derri
 Alors que la famine gronde en France et que la Révolution approche, la reine devient une cible idéale. Acacia devra choisir : se plier au rôle qu’on lui impose… ou continuer de défier les règles pour changer le cours de l’histoire, quitte à tout perdre - même l’homme qu’elle n’aurait jamais dû aimer. 
 
 
-[Fnac ](https://www.fnac.com/a22032797/Morgane-Moncomble-La-Revolte-de-la-reine#description)
+Lien pour acheter : [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncomble-La-Revolte-de-la-reine#description)
+
+
+[Page d'accueil ](index.md)
 
