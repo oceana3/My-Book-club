@@ -1,8 +1,44 @@
 ---
 ---
-@import "jekyll-theme-minimal";
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Lato:wght@400;700&display=swap');
 
+body {
+  background: #fdf6f8;
+  color: #4a3b40;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.7;
+}
 
-html, body {background-color: #ffe4e1!important;}
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #8c4a5e;
+}
+
+h2 {
+  border-bottom: 2px solid #f3c9d5;
+  padding-bottom: 0.3em;
+  margin-top: 1.8em;
+}
+
+a { color: #c2577a; font-weight: 700; }
+a:hover { color: #8c4a5e; text-decoration: underline; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(140, 74, 94, 0.25);
+}
+
+blockquote {
+  background: #ffffff;
+  border-left: 4px solid #e8a0b5;
+  border-radius: 8px;
+  padding: 0.8em 1.2em;
+  color: #5a4a50;
+}
 
 
