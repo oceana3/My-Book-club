@@ -1,11 +1,12 @@
+---
 # Mes lectures du mois d'août 🏖️
-
-## «La Révolte de la Reine» de Morgane Moncomble
+---
+«La Révolte de la Reine» de Morgane Moncomble
 
 ![imag1](La-Revolte-de-la-Reine.jpg)
 
 
-Mon avis : ⭐️⭐️⭐️⭐️☆ 
+Mon avis : <span class="etoiles">★★★★☆</span> (4/5)
 
 ### Résumé : 
 
