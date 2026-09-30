@@ -20,11 +20,25 @@ Mon avis : <span class="etoiles">★★★★☆</span> (4/5)
 
 >Depuis leur rencontre, leurs relations virent à l'affrontement. Pourtant, derrière les piques et les faux-semblants, une attraction brûlante menace de tout faire basculer.
 
->Alors que la famine gronde en France et que la Révolution approche, la reine devient une cible idéale. Acacia devra choisir : se plier au rôle qu’on lui impose… ou continuer de défier les règles pour changer le cours de l’histoire, quitte à tout perdre - même l’homme qu’elle n’aurait jamais dû aimer. 
+>Alors que la famine gronde en France et que la Révolution approche, la reine devient une cible idéale. Acacia devra choisir : se plier au rôle qu’on lui impose… ou continuer de défier les règles pour changer le cours de l’histoire, quitte à tout perdre - même l’homme qu’elle n’aurait jamais dû aimer.
+
+
+Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncomble-La-Revolte-de-la-reine#description)
+
+L'invitée surprise de Alison Espach 
 
 
 
-Lien pour acheter ->  [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncomble-La-Revolte-de-la-reine#description)
+
+
+#### Résumé : 
+
+>Le Cornwall Inn, Phoebe a rêvé de cet hôtel avec son mari. Pourtant, lorsqu’elle descend du taxi, elle est seule, sans bagages, dans la magnifique robe de soie vert émeraude qu’elle n’a jamais osé porter. Si elle a vécu sans éclat, elle mourra avec panache. Tout est prévu, de la promenade sur la plage au coucher du soleil au plateau de fruits de mer, en passant par la crème brûlée et la boîte de comprimés… Tout, sauf un détail : l’hôtel est entièrement réservé pour un mariage grandiose, une semaine de festivités. Et la mariée ne laissera personne gâcher son grand jour.
+
+Ma note : <span class="etoiles">★★☆☆☆</span> (2/5)
+
+
+Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22721115/Alison-Espach-L-Invitee-surprise#description)
 
 
 [Page d'accueil ](index.md)
