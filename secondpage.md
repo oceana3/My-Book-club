@@ -1,13 +1,13 @@
 # Mes lectures du mois d'août 🏖️
 
-«La Révolte de la Reine» de Morgane Moncomble
+## «La Révolte de la Reine» de Morgane Moncomble
 
 ![imag1](La-Revolte-de-la-Reine.jpg)
 
 
 Mon avis : ⭐️⭐️⭐️⭐️☆ 
 
-Résumé : 
+### Résumé : 
 
 >La Révolte de la Reine est le premier tome d'Inhéritance, la nouvelle trilogie de Morgane Moncomble. 
 
