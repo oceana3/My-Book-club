@@ -1,4 +1,3 @@
----
 # Thriller
 
 Vous débutez dans la lecture ou vous cherchez votre prochain thriller? Vous êtes au bon endroit ! 
