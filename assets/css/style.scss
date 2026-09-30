@@ -1,7 +1,7 @@
 ---
 ---
-@import "{{ 'jekyll-theme-minimal' }}";
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Nunito:wght@400;700&display=swap');
+@import "jekyll-theme-minimal";
+@import url("https://googleapis.com");
 
 body {
   background: #fdf6f8;
@@ -49,5 +49,6 @@ blockquote {
 }
 
 footer p, footer a { color: #b08a96; }
+
 
 
