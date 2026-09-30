@@ -28,13 +28,12 @@ Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncombl
 
 ![imag2](L-Invitee-surprise.jpg)
 
-
+Ma note : <span class="etoiles">★★☆☆☆</span> (2/5)
 
 #### Résumé : 
 
 >Le Cornwall Inn, Phoebe a rêvé de cet hôtel avec son mari. Pourtant, lorsqu’elle descend du taxi, elle est seule, sans bagages, dans la magnifique robe de soie vert émeraude qu’elle n’a jamais osé porter. Si elle a vécu sans éclat, elle mourra avec panache. Tout est prévu, de la promenade sur la plage au coucher du soleil au plateau de fruits de mer, en passant par la crème brûlée et la boîte de comprimés… Tout, sauf un détail : l’hôtel est entièrement réservé pour un mariage grandiose, une semaine de festivités. Et la mariée ne laissera personne gâcher son grand jour.
 
-Ma note : <span class="etoiles">★★☆☆☆</span> (2/5)
 
 
 Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22721115/Alison-Espach-L-Invitee-surprise#description)
