@@ -9,7 +9,7 @@ En ce moment, je lis « Dear Debbie » de Freida McFadden.
 
 Résumé : 
 
-Mère et épouse dévouée, Debbie Mullen est à bout. Depuis des années, elle dispense ses conseils avisés dans la rubrique « Chère Debbie » du journal local. Elle a ainsi aidé des centaines de femmes maltraitées ou humiliées par leurs maris. 
+>Mère et épouse dévouée, Debbie Mullen est à bout. Depuis des années, elle dispense ses conseils avisés dans la rubrique « Chère Debbie » du journal local. Elle a ainsi aidé des centaines de femmes maltraitées ou humiliées par leurs maris. 
 
 Jusqu’au jour où sa propre vie vole en éclats : elle perd son emploi, ses filles adolescentes se comportent bizarrement, ses voisins deviennent insupportables... Pire, elle soupçonne que son mari lui cache de vilaines choses.
 
