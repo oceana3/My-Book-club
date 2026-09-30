@@ -15,7 +15,9 @@ Résumé :
 
 >Désormais, Debbie refuse de continuer à jouer la gentille femme au foyer. Fini d’être raisonnable et pragmatique, il est temps pour elle de suivre ses propres conseils : l'heure de la vengeance a sonné. Une vengeance qui s'abattra sur tous ceux qui la méritent vraiment…  
 
-Pour l'acheter : [Fnac](https://www.fnac.com/a22858837/Freida-McFadden-Chere-Debbie)
+
+
+Pour l'acheter -> [Fnac](https://www.fnac.com/a22858837/Freida-McFadden-Chere-Debbie)
 
 
 [ link to my introduction](introduction)
