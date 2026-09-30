@@ -1,5 +1,5 @@
 # Welcome 🌸
-Bienvenue dans mon bookclub! Fan de romance,fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
+Bienvenue dans mon Book Club! Fan de romance, fantasy et de thriller je vous partage mes lectures du mois, mes avis et mes recommandations.
 
 ## Septembre 🌤️
 
