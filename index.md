@@ -4,7 +4,7 @@
 
 ## Septembre 🌤️
 
-<p>En ce moment, je lis « <em>Dear Debbie</em> » de Freida McFadden.</p>
+<p>En ce moment, je lis « <em>Dear Debbie</em> » de <strong>Freida McFadden</strong>.</p>
 
 ![imag](deardebbieimag.jpg)
 
