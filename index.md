@@ -21,7 +21,7 @@ Résumé :
 
 
 
-Pour l'acheter -> [Fnac](https://www.fnac.com/a22858837/Freida-McFadden-Chere-Debbie)
+Pour l'acheter → [Fnac](https://www.fnac.com/a22858837/Freida-McFadden-Chere-Debbie)
 
 
 [Thriller](thirdpage.md)
