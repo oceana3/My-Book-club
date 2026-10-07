@@ -5,7 +5,7 @@
 ![imag1](La-Revolte-de-la-Reine.jpg)
 
 
-                                  Ma Note : <span class="etoiles">★★★★☆</span> (4/5)
+Ma Note : <span class="etoiles">★★★★☆</span> (4/5)
 
 ### Résumé : 
 
