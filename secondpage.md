@@ -1,6 +1,6 @@
 # Mes lectures du mois d'août 🏖️
 
-<p align="center">«<em>La Révolte de la Reine</em>» de **Morgane Moncomble**</p>
+<p align="center">«<em>La Révolte de la Reine</em>» de Morgane Moncomble</p>
 
 ![imag1](La-Revolte-de-la-Reine.jpg)
 
@@ -24,7 +24,7 @@
 
 Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncomble-La-Revolte-de-la-reine#description)
 
-<p align="center">«<em>L'invitée surprise</em>» de **Alison Espach**</p>
+<p align="center">«<em>L'invitée surprise</em>» de Alison Espach</p>
 
 ![imag2](L-Invitee-surprise.jpg)
 
