@@ -28,7 +28,7 @@ Acheter le livre ici ->  [Fnac ](https://www.fnac.com/a22032797/Morgane-Moncombl
 
 ![imag2](L-Invitee-surprise.jpg)
 
-Ma Note : <span class="etoiles">★★☆☆☆</span> (2/5) 
+<p align="center">Ma Note : <span class="etoiles">★★☆☆☆</span> (2/5) </p>
 
 #### **Résumé** : 
 ---------------
