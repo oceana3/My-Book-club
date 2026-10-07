@@ -2,12 +2,12 @@
 
 <p>Vous débutez dans la lecture ou vous cherchez votre prochain thriller? Vous êtes au bon endroit ! </p>
 
-«<em>Mens-Moi à l'oreille</em>» de **Amy Tintera** 
+<p align="center">«<em>Mens-Moi à l'oreille</em>» de **Amy Tintera** </p>
 
 ![mens-moi à l'oreille](241530712.jpg)  
  
 
-Ma Note : <span class="etoiles">★★★★☆</span> (4/5)
+<p align="center">Ma Note : <span class="etoiles">★★★★☆</span> (4/5)</p>
 
 Résumé :
 ---------------
