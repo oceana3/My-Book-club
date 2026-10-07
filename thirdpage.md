@@ -2,7 +2,7 @@
 
 <p>Vous débutez dans la lecture ou vous cherchez votre prochain thriller? Vous êtes au bon endroit ! </p>
 
-«<em>Mens-Moi à l'oreille</em>» de Amy Tintera 
+«<em>Mens-Moi à l'oreille</em>» de **Amy Tintera** 
 
 ![mens-moi à l'oreille](241530712.jpg)  
  
