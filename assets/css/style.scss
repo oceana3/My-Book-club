@@ -8,17 +8,22 @@ body {
   font-family: 'Nunito', sans-serif;
   font-size: 16px;
   line-height: 1.7;
+  
+   max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 h1, h2, h3 {
   font-family: 'Dancing Script', cursive;
-  color: #8c4a5e;
+  color: #8c4a5e; text-align: center;
 }
 
 h2 {
   border-bottom: 2px solid #f3c9d5;
   padding-bottom: 0.3em;
   margin-top: 1.5em;
+   text-align: center;
 }
 
 a { color: #c2577a; font-weight: 700; }
@@ -31,6 +36,8 @@ img {
   height: auto;
   border-radius: 12px;
   box-shadow: 0 6px 18px rgba(140, 74, 94, 0.25);
+   display: block;
+  margin: 1em auto;
 }
 
 blockquote {
@@ -47,7 +54,7 @@ blockquote {
   letter-spacing: 2px;
 }
 
-footer p, footer a { color: #b08a96; }
+footer p, footer a { color: #b08a96;  text-align: center; }
 
 
 
